@@ -38,3 +38,9 @@ Model evaluation is done using standard object detection metrics:
 | Recall         | 0.992 |
 | mAP@0.5        | 0.994 |
 | mAP@0.5:0.95   | 0.993 |
+
+
+### Contact
+If you have any questions, feedback, or collaboration ideas, feel free to reach out:
+* 📧 Email: amnabatul2@gmail.com 
+* 🌐 GitHub: [AmnaBatul](https://github.com/AmnaBatul)
